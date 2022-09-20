@@ -3,4 +3,4 @@
 ### I hope you enjoy it 
 ### Links
 
-- Live Site URL: [My Portfolio](https://hlrredmoon.github.io/Product-preview-card-component/)
+- Live Site URL: [ My Portfolio](https://hlrredmoon.github.io/HLR-portfolio/)
